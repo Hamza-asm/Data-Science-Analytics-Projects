@@ -11,4 +11,4 @@ Fraud Detection System with Credit Card Fraud dataset
 
 House Price Prediction using the Boston Housing dataset
 
-Each task demonstrates different aspects of data science including data cleaning, visualization, machine learning model implementation, and evaluation. The repository includes Jupyter notebooks, Python scripts, datasets, and comprehensive documentation.
+Each task demonstrates different aspects of data science including data cleaning, visualization, machine learning model implementation, and evaluation. The repository includes Jupyter notebooks,  datasets, and comprehensive documentation.
