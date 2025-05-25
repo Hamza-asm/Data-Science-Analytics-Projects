@@ -40,7 +40,7 @@ Open TASK 3 Fraud Detection System.ipynb in Jupyter.
 
 Install dependencies:
 
-pip install pandas numpy matplotlib scikit-learn imbalanced-learn
+```pip install pandas numpy matplotlib scikit-learn imbalanced-learn```
 
 Run through the notebook cells sequentially.
 
