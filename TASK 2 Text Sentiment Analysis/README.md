@@ -42,7 +42,7 @@ Open TASK 2 Text Sentiment Analysis.ipynb in Jupyter.
 
 Install dependencies:
 
-pip install pandas numpy matplotlib scikit-learn
+```pip install pandas numpy matplotlib scikit-learn```  
 
 Execute each cell in order.
 
