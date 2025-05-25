@@ -42,7 +42,7 @@ Custom plots using matplotlib and seaborn.
 
 2. Ensure required libraries are installed:
 
-pip install pandas matplotlib seaborn
+```pip install pandas matplotlib seaborn```
 
 3. Run each cell sequentially.
 
