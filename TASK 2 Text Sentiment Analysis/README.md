@@ -8,21 +8,21 @@ This notebook builds a sentiment analysis pipeline to classify text data (e.g., 
 
 Data Loading: Import textual dataset (CSV/JSON).
 
-Text Preprocessing:
+### Text Preprocessing:
 
 Lowercasing, removal of punctuation and stop words.
 
 Tokenization and optional lemmatization/stemming.
 
-Feature Extraction:
+### Feature Extraction:
 
 Convert text to numerical features using TF-IDF or Bag-of-Words.
 
-Model Implementation (Scratch):
+### Model Implementation (Scratch):
 
 Implement Naive Bayes and Logistic Regression from scratch.
 
-Model Training & Evaluation:
+### Model Training & Evaluation:
 
 Split data into train/test sets.
 
@@ -30,7 +30,7 @@ Train models and predict on the test set.
 
 Evaluate using accuracy, precision, recall, F1-score.
 
-Visualization:
+### Visualization:
 
 Confusion matrix heatmap.
 
