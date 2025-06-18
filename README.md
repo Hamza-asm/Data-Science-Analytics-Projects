@@ -1,4 +1,4 @@
-# Data-Science-Analytics-Projects
+# Data-Science-Analytics-Projects-Cycle 1
 Data Science Internship Projects - EDA, Sentiment Analysis, Fraud Detection, and Regression
 
 This repository contains solutions to four key data science tasks completed during my internship:
